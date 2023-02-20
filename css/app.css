@@ -1,0 +1,15 @@
+#avanti {
+    position: absolute;
+    color: white;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+#indietro {
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 20px;
+    transform: translateY(-50%);
+}
